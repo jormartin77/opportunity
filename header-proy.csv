@@ -1,6 +1,6 @@
 muestra
 fecha
-vacio
+MILLISEC
 ref x
 ref y
 ref z
@@ -95,7 +95,7 @@ ro
 theta
 phi
 a
-A
+b
 ref x
 ref y
 ref z
